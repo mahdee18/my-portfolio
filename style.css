@@ -47,6 +47,19 @@ section{
     padding: 30px;
     border-radius: 10px;
     border: 1px solid rgb(195, 210, 217);
-    border-left: 5px solid #000;
-    
+}
+#first-gradiant{
+    border-left: 5px solid ;
+    border-image: linear-gradient(red, yellow);
+    border-image-slice: 1;
+}
+#second-gradient{
+    border-left: 5px solid ;
+    border-image: linear-gradient(rgb(37, 166, 241), rgb(251, 200, 60));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    font-size: 25px;
 }
