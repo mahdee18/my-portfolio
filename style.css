@@ -25,3 +25,28 @@ section{
 .second-section{
     padding-top: 100px;
 }
+.experiance-title{
+    
+}
+.experience-item{
+    margin-top: 100px;
+    display: flex;
+}
+.experience-item h1{
+    font-size: 50px;
+    text-transform: ;
+}
+.experience-item h3{
+    color: rgb(192, 162, 109);
+}
+.box-shadow{
+
+    box-shadow: 10px 10px 45px rgb(191, 202, 207);
+    width: 40%;
+    margin-left: 10px;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(195, 210, 217);
+    border-left: 5px solid #000;
+    
+}
